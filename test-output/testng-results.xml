@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-05-01T19:46:44 CDT" name="Default suite" finished-at="2023-05-01T19:47:07 CDT" duration-ms="23270">
+    <groups>
+    </groups>
+    <test started-at="2023-05-01T19:46:44 CDT" name="Default test" finished-at="2023-05-01T19:47:07 CDT" duration-ms="23270">
+      <class name="com.acti.testcase.LoginPageTests">
+        <test-method signature="initApplication()[pri:0, instance:com.acti.testcase.LoginPageTests@4f2b503c]" started-at="2023-05-01T19:46:44 CDT" name="initApplication" finished-at="2023-05-01T19:46:49 CDT" duration-ms="5270" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initApplication -->
+        <test-method signature="testActiImgDisplayed()[pri:0, instance:com.acti.testcase.LoginPageTests@4f2b503c]" started-at="2023-05-01T19:46:49 CDT" name="testActiImgDisplayed" finished-at="2023-05-01T19:46:53 CDT" duration-ms="3861" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testActiImgDisplayed -->
+        <test-method signature="testForgotPasswordDisplayed()[pri:0, instance:com.acti.testcase.LoginPageTests@4f2b503c]" started-at="2023-05-01T19:46:53 CDT" name="testForgotPasswordDisplayed" finished-at="2023-05-01T19:46:56 CDT" duration-ms="3351" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testForgotPasswordDisplayed -->
+        <test-method signature="testLoginFunction()[pri:0, instance:com.acti.testcase.LoginPageTests@4f2b503c]" started-at="2023-05-01T19:46:56 CDT" name="testLoginFunction" finished-at="2023-05-01T19:47:00 CDT" duration-ms="3498" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLoginFunction -->
+        <test-method signature="testLoginInvalidCredentials()[pri:0, instance:com.acti.testcase.LoginPageTests@4f2b503c]" started-at="2023-05-01T19:47:00 CDT" name="testLoginInvalidCredentials" finished-at="2023-05-01T19:47:03 CDT" duration-ms="3796" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLoginInvalidCredentials -->
+        <test-method signature="testLoginPageTitle()[pri:0, instance:com.acti.testcase.LoginPageTests@4f2b503c]" started-at="2023-05-01T19:47:03 CDT" name="testLoginPageTitle" finished-at="2023-05-01T19:47:07 CDT" duration-ms="3451" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLoginPageTitle -->
+      </class> <!-- com.acti.testcase.LoginPageTests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
